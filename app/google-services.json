@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732707186793",
+    "project_id": "paleerat-lasttass02-27",
+    "storage_bucket": "paleerat-lasttass02-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732707186793:android:b64589d596e3423046daf8",
+        "android_client_info": {
+          "package_name": "com.example.last_assignment_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732707186793-ldar0u7a6t1dua4sd03d7r5c6r9usui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90nkrwA6PmtWhiUk_YGl0MbCGJebMeNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732707186793-ldar0u7a6t1dua4sd03d7r5c6r9usui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
